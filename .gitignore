@@ -13,3 +13,8 @@ hs_err_pid*
 
 # kb configuration files
 *.kb
+
+# intellij
+out/*
+.idea/*
+*.iml
